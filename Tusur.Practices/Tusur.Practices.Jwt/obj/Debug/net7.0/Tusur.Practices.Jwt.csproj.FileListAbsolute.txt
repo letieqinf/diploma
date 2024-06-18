@@ -1,0 +1,15 @@
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.Jwt\bin\Debug\net7.0\Tusur.Practices.Jwt.deps.json
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.Jwt\bin\Debug\net7.0\Tusur.Practices.Jwt.dll
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.Jwt\bin\Debug\net7.0\Tusur.Practices.Jwt.pdb
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.Jwt\bin\Debug\net7.0\Tusur.Practices.Application.dll
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.Jwt\bin\Debug\net7.0\Tusur.Practices.Application.pdb
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.Jwt\obj\Debug\net7.0\Tusur.Practices.Jwt.csproj.AssemblyReference.cache
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.Jwt\obj\Debug\net7.0\Tusur.Practices.Jwt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.Jwt\obj\Debug\net7.0\Tusur.Practices.Jwt.AssemblyInfoInputs.cache
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.Jwt\obj\Debug\net7.0\Tusur.Practices.Jwt.AssemblyInfo.cs
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.Jwt\obj\Debug\net7.0\Tusur.Practices.Jwt.csproj.CoreCompileInputs.cache
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.Jwt\obj\Debug\net7.0\Tusur.Practices.Jwt.dll
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.Jwt\obj\Debug\net7.0\refint\Tusur.Practices.Jwt.dll
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.Jwt\obj\Debug\net7.0\Tusur.Practices.Jwt.pdb
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.Jwt\obj\Debug\net7.0\ref\Tusur.Practices.Jwt.dll
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.Jwt\obj\Debug\net7.0\Tusur.Pr.E4166A8F.Up2Date
