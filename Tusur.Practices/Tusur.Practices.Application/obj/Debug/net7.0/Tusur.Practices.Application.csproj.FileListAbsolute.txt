@@ -1,0 +1,11 @@
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.Application\bin\Debug\net7.0\Tusur.Practices.Application.deps.json
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.Application\bin\Debug\net7.0\Tusur.Practices.Application.dll
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.Application\bin\Debug\net7.0\Tusur.Practices.Application.pdb
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.Application\obj\Debug\net7.0\Tusur.Practices.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.Application\obj\Debug\net7.0\Tusur.Practices.Application.AssemblyInfoInputs.cache
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.Application\obj\Debug\net7.0\Tusur.Practices.Application.AssemblyInfo.cs
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.Application\obj\Debug\net7.0\Tusur.Practices.Application.csproj.CoreCompileInputs.cache
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.Application\obj\Debug\net7.0\Tusur.Practices.Application.dll
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.Application\obj\Debug\net7.0\refint\Tusur.Practices.Application.dll
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.Application\obj\Debug\net7.0\Tusur.Practices.Application.pdb
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.Application\obj\Debug\net7.0\ref\Tusur.Practices.Application.dll
