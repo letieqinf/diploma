@@ -1,0 +1,15 @@
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.DataAccess\bin\Debug\net7.0\Tusur.Practices.DataAccess.deps.json
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.DataAccess\bin\Debug\net7.0\Tusur.Practices.DataAccess.dll
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.DataAccess\bin\Debug\net7.0\Tusur.Practices.DataAccess.pdb
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.DataAccess\bin\Debug\net7.0\Tusur.Practices.Application.dll
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.DataAccess\bin\Debug\net7.0\Tusur.Practices.Application.pdb
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.DataAccess\obj\Debug\net7.0\Tusur.Practices.DataAccess.csproj.AssemblyReference.cache
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.DataAccess\obj\Debug\net7.0\Tusur.Practices.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.DataAccess\obj\Debug\net7.0\Tusur.Practices.DataAccess.AssemblyInfoInputs.cache
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.DataAccess\obj\Debug\net7.0\Tusur.Practices.DataAccess.AssemblyInfo.cs
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.DataAccess\obj\Debug\net7.0\Tusur.Practices.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.DataAccess\obj\Debug\net7.0\Tusur.Practices.DataAccess.dll
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.DataAccess\obj\Debug\net7.0\refint\Tusur.Practices.DataAccess.dll
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.DataAccess\obj\Debug\net7.0\Tusur.Practices.DataAccess.pdb
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.DataAccess\obj\Debug\net7.0\ref\Tusur.Practices.DataAccess.dll
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.DataAccess\obj\Debug\net7.0\Tusur.Pr.1F7E3C22.Up2Date

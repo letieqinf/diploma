@@ -1,0 +1,17 @@
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.DataAccess\obj\Debug\net7.0\Tusur.Practices.Persistence.csproj.AssemblyReference.cache
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.DataAccess\obj\Debug\net7.0\Tusur.Practices.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.DataAccess\obj\Debug\net7.0\Tusur.Practices.Persistence.AssemblyInfoInputs.cache
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.DataAccess\obj\Debug\net7.0\Tusur.Practices.Persistence.AssemblyInfo.cs
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.DataAccess\obj\Debug\net7.0\Tusur.Practices.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.DataAccess\bin\Debug\net7.0\Tusur.Practices.Persistence.deps.json
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.DataAccess\bin\Debug\net7.0\Tusur.Practices.Persistence.dll
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.DataAccess\bin\Debug\net7.0\Tusur.Practices.Persistence.pdb
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.DataAccess\bin\Debug\net7.0\Tusur.Practices.Application.dll
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.DataAccess\bin\Debug\net7.0\Tusur.Practices.Application.pdb
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.DataAccess\obj\Debug\net7.0\Tusur.Pr.9D2719BF.Up2Date
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.DataAccess\obj\Debug\net7.0\Tusur.Practices.Persistence.dll
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.DataAccess\obj\Debug\net7.0\refint\Tusur.Practices.Persistence.dll
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.DataAccess\obj\Debug\net7.0\Tusur.Practices.Persistence.pdb
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.DataAccess\obj\Debug\net7.0\ref\Tusur.Practices.Persistence.dll
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.DataAccess\bin\Debug\net7.0\Tusur.Practices.Persistence.runtimeconfig.json
+C:\Users\errli\OneDrive\Desktop\Проект по практике\Программа\Tusur.Proctices\Tusur.Practices.DataAccess\obj\Debug\net7.0\Tusur.Practices.Persistence.genruntimeconfig.cache
