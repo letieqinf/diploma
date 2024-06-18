@@ -1,0 +1,30 @@
+.group-list-search {
+    margin-bottom: 20px;
+}
+
+.group-list-container>.group-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.teacher-application-card-container {
+    margin-top: 20px;
+
+    border-left: 1px solid #c2c1db;
+    border-top: 1px solid #c2c1db;
+    border-right: 1px solid #c2c1db;
+    border-bottom: 0;
+    box-shadow: 0 4px #3c388d;
+}
+
+.teacher-application-card {
+    margin: 0 58px;
+}
+
+.teacher-buttons-container {
+    display: flex;
+    gap: 4px;
+
+    margin-top: 20px;
+}

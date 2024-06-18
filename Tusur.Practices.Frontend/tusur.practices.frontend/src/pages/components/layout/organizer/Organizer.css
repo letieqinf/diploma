@@ -1,0 +1,15 @@
+.organizer-title {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+
+    color: #3c388d;
+
+    margin-bottom: 8px;
+}
+
+.organizer-title svg {
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+}

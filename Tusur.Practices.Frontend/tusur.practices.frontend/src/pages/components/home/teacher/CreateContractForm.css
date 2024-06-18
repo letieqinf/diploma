@@ -1,0 +1,97 @@
+form.create-contract {
+    min-width: 100%;
+    width: 540px;
+}
+
+form.create-contract>.form-part {
+    margin-top: 20px;
+    width: 100%;
+}
+
+form.create-contract>.form-part:first-child {
+    margin: 0;
+}
+
+.list-selector {
+    display: flex;
+    gap: 4px;
+
+    position: relative;
+    z-index: 10;
+}
+
+.list-selector>button.button {
+    padding: 12px;
+}
+
+form.create-contract>.form-part>.content {
+    margin-top: 12px;
+}
+
+form.create-contract>.contract-student-list-container>.student-list {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+
+    width: 100%;
+
+    list-style: none;
+}
+
+form.create-contract>.contract-student-list-container>.student-list>li {
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+form.create-contract>.contract-student-list-container>.student-list>li>p {
+    margin-left: 12px;
+}
+
+form.create-contract>.contract-student-list-container>.buttons-container {
+    margin-top: 12px;
+}
+
+form.create-contract>.form-part.buttons-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.selected-item {
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    position: relative;
+}
+
+.selected-item>.selected-item-info {
+    border-left: 4px solid #c2c1db;
+    box-sizing: border-box;
+    padding: 0 12px;
+}
+
+.selected-item>.selected-item-info>p:first-child {
+    font-weight: 500;
+}
+
+.selected-item>.selected-item-info>p:last-child {
+    font-size: 14px;
+}
+
+.list-selector>.selectors {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    width: 100%;
+}
+
+.create-contract>.buttons-container {
+    display: flex;
+    gap: 4px;
+}

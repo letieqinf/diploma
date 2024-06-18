@@ -1,0 +1,7 @@
+.application-filter>.title {
+    margin-bottom: 12px;
+}
+
+.application-filter>.title>h3 {
+    font-weight: 500;
+}

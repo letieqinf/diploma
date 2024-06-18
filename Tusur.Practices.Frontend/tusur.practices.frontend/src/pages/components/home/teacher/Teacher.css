@@ -1,0 +1,20 @@
+.content-container .content-body {
+    margin-top: 20px;
+
+    position: relative;
+}
+
+.contract-list-container {
+    margin-top: 40px;
+}
+
+.contract-list-container::before {
+    content: '';
+    width: 100%;
+    height: 1px;
+    background-color: #ececf4;
+
+    position: absolute;
+    left: 0;
+    top: 72px;
+}

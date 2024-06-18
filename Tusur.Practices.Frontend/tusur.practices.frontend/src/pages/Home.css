@@ -1,0 +1,82 @@
+.home-body {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+
+    margin: 40px;
+    width: 80%;
+    height: 680px;
+}
+
+.container .role-tabs-container {
+    width: 20%;
+
+    border-right: solid 1px #c2c1db;
+    height: 100%;
+}
+
+.container .role-tabs-container .role-tabs {
+    display: flex;
+    flex-direction: column;
+
+    list-style: none;
+
+    position: relative;
+}
+
+.container .role-tabs-container .role-tabs .role-tab {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    padding: 20px;
+    margin-right: -1px;
+
+    border: solid 1px transparent;
+    border-radius: 4px 0 0 4px;
+    border-right: solid 1px #c2c1db;
+
+    position: relative;
+
+    color: #0066cc;
+}
+
+.container .role-tabs-container .role-tabs .role-tab:hover {
+    cursor: pointer;
+    background-color: #eee;
+}
+
+.container .role-tabs-container .role-tabs .role-tab.active {
+    border: solid 1px #c2c1db;
+    border-right: solid 1px #fff;
+
+    color: black;
+}
+
+.container .role-tabs-container .role-tabs .role-tab.active:hover {
+    cursor: default;
+    background-color: #fff;
+}
+
+.container .role-tabs-content-container {
+    width: 80%;
+    height: 100%;
+
+    overflow-y: auto;
+
+    margin-left: 80px;
+    padding-right: 80px;
+}
+
+.container .role-tabs-content-container .role-tabs-content {
+    display: none;
+}
+
+.container .role-tabs-content-container .role-tabs-content.active {
+    display: block;
+}

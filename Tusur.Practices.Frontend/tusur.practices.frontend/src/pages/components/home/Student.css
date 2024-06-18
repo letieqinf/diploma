@@ -1,0 +1,32 @@
+.content-body {
+    margin-bottom: 40px;
+}
+
+.content-body .content-block, .content-body .content-block .block-title {
+    margin-bottom: 20px;
+}
+
+.content-body .content-block:last-child {
+    margin: 0;
+}
+
+.content-body .content-block .block-title h2 {
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.content-block .practice-list {
+    list-style: none;
+}
+
+.content-block .practice-list .practice-container {
+    margin-bottom: 12px;
+}
+
+.content-block .practice-list .practice-container:last-child {
+    margin: 0;
+}
+
+.student-content-container .buttons-container {
+    margin-top: 20px;
+}

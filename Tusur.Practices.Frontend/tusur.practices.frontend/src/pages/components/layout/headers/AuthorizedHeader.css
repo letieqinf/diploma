@@ -1,0 +1,109 @@
+header.authorized-header {
+    display: flex;
+    flex-direction: column;
+}
+
+.authorized-header .authorized-header-container {
+    display: flex;
+    justify-content: center;
+
+    width: 100%;
+    height: max-content;
+}
+
+.authorized-header .authorized-header-menu-container {
+    background-color: #ececf4;
+}
+
+.authorized-header .authorized-header-menu-container .authorized-header-menu {
+    display: flex;
+    justify-content: flex-end;
+
+    width: 80%;
+}
+
+.authorized-header .authorized-header-menu-container .authorized-header-menu li {
+    display: flex;
+
+    height: max-content;
+
+    list-style: none;
+}
+
+.authorized-header .authorized-header-menu li a {
+    padding: 12px 20px;
+
+    color: #3c388d;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.authorized-header .authorized-header-menu li a:hover {
+    background-color: #c2c1db;
+}
+
+.authorized-header .authorized-header-sub-container {
+}
+
+.authorized-header .authorized-header-sub-container .authorized-header-sub {
+    display: flex;
+    align-items: center;
+
+    width: 80%;
+    height: max-content;
+
+    margin: 40px 0;
+
+    position: relative;
+
+    list-style: none;
+}
+
+.authorized-header-sub li:last-child {
+    margin-left: 40px;
+    padding-left: 40px;
+
+    height: 100%;
+    border-left: solid 2px #3c388d;
+    color: #0066cc;
+}
+
+.authorized-header .authorized-header-bottom-container {
+    background-color: #3c388d;
+}
+
+.authorized-header .authorized-header-bottom-container .authorized-header-bottom {
+    display: flex;
+
+    width: 80%;
+    height: max-content;
+
+    list-style: none;
+}
+
+.authorized-header-bottom .bottom-item {
+    display: flex;
+
+    height: max-content;
+}
+
+.authorized-header-bottom .bottom-item a {
+    padding: 12px 20px;
+
+    text-decoration: none;
+    color: #fff;
+}
+
+.authorized-header-bottom .bottom-item a:hover {
+    background-color: #fff;
+    color: #000;
+}
+
+.authorized-header-bottom .bottom-item a.active {
+    background-color: #9abf38;
+}
+
+.authorized-header-bottom .bottom-item a.active:hover {
+    background-color: #fff;
+    color: #000;
+}

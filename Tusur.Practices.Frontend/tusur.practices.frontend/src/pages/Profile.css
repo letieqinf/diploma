@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.profile-container {
+    width: 360px;
+    height: 360px;
+}
+
+.profile-card {
+    display: grid;
+    grid-template-columns: 40% 50%;
+    grid-template-rows: 40% 50%;
+
+    gap: 4px;
+
+    width: 100%;
+    height: 100%;
+}
+
+.profile-card .profile-photo {
+    border-radius: 100%;
+    overflow: hidden;
+}
+
+.profile-card .profile-photo .photo-container {
+    width: 100%;
+    height: 100%;
+    background-color: #959595;
+}
+
+.profile-practices {
+    grid-column: 1 / span 2;
+
+    width: 100%;
+    height: 100%;
+    background-color: #3c388d;
+}

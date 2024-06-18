@@ -1,0 +1,84 @@
+.groups-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+    margin-top: 20px;
+}
+
+.group-list-item>* {
+    padding: 20px 28px;
+}
+
+.group-list-item>.header {
+    background-color: #ececf4;
+}
+
+.group-list-item>.header>.group-name {
+    color: #3c388d;
+    
+    font-weight: 500;
+}
+
+.group-list-item>.header>.group-info {
+    font-size: 14px;
+}
+
+.group-list-item>.body {
+    border-left: 1px solid #ececf4;
+    border-right: 1px solid #ececf4;
+
+    box-shadow: 0 4px #c2c1db;
+}
+
+.supervisor-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    list-style: none;
+}
+
+.supervisor-list>.supervisor-list-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    width: 100%;
+}
+
+.supervisor-list>.supervisor-list-item>.supervisor-list-item-info {
+    padding: 0 12px;
+    
+    border-left: 4px solid #3c388d;
+    box-sizing: border-box;
+}
+
+.supervisor-list>.supervisor-list-item>.supervisor-list-item-info>p:first-child {
+    color: #3c388d;
+
+    font-size: 16px;
+}
+
+.supervisor-list>.supervisor-list-item>.supervisor-list-item-info>p {
+    font-size: 14px;
+}
+
+.supervisor-list>.supervisor-list-item>.supervisor-list-item-action {
+    color: #3c388d;
+}
+
+.supervisor-list>.supervisor-list-item>.supervisor-list-item-action:hover {
+    cursor: pointer;
+}
+
+.supervisor-list>.supervisor-list-item.red>.supervisor-list-item-info {
+    border-color: #c12e2a;
+}
+
+.supervisor-list>.supervisor-list-item.red>.supervisor-list-item-info>p:first-child {
+    color: #d9534f;
+}
+
+.supervisor-list>.supervisor-list-item.red>.supervisor-list-item-action {
+    color: #c12e2a;
+}

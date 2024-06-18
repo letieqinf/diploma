@@ -1,0 +1,25 @@
+.choice-menu {
+    display: flex;
+    flex-direction: row;
+
+    width: 100%;
+    min-height: 50px;
+
+    background-color: #3c388d;
+
+    list-style: none;
+}
+
+.choice-menu-item p {
+    color: white;
+    padding: 16px;
+}
+
+.choice-menu-item .active p {
+    color: black;
+    background-color: #fff;
+}
+
+.choice-menu-item:hover {
+    cursor: pointer;
+}

@@ -1,0 +1,620 @@
+.home-body {
+    height: 100%;
+}
+
+.home-content {
+    padding: 40px 5%;
+    height: 100%;;
+}
+
+.student-information {
+    display: flex;
+    width: 100%;
+    height: 640px;
+
+    column-gap: 32px;
+}
+
+.choice-menu {
+    display: flex;
+    flex-direction: row;
+
+    width: 100%;
+    min-height: 50px;
+
+    background-color: #3c388d;
+
+    list-style: none;
+}
+
+.practices-card {
+    min-width: 360px;
+    width: 360px;
+    padding: 20px 0;
+    height: fit-content;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    border: 2px solid #3c388d;
+    border-radius: 20px;
+}
+
+.practices-card .header {
+    padding-bottom: 20px;
+}
+
+.practices-card .practices-list {
+    width: 80%;
+    list-style: none;
+
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+}
+
+.practices-card .practices-list .practice-item {
+    display: flex;
+    align-items: center;
+    position: relative;
+    width: 100%;
+
+    margin-bottom: 32px;
+}
+
+.practices-card .practices-list .practice-item:last-child {
+    margin-bottom: 0;
+}
+
+.practices-card .practices-list .practice-item::before {
+    content: "";
+    width: 60%;
+    height: 1px;
+    background-color: black;
+
+    top: -16px;
+    left: 50%;
+    transform: translate(-50%, 0);
+
+    z-index: -1;
+
+    position: absolute;
+}
+
+.practices-list .ongoing {
+    color: rgb(220, 132, 0);
+}
+
+.practices-list .upcoming {
+    color: green;
+}
+
+.practices-list .finished {
+    color: rgb(158, 158, 158);
+}
+
+.practices-card .practices-list .practice-item:first-child:before {
+    content: none;
+}
+
+.practices-card .practices-list .practice-item svg {
+    margin-right: 16px;
+}
+
+.practices-card .practices-list .practice-item .practice-name p {
+    word-break: break-word;
+}
+
+.practices-card .practices-list .practice-item .practice-name p:first-child {
+    font-weight: 500;
+}
+
+.choice-menu-item {
+    color: white;
+    padding: 16px;
+}
+
+.choice-menu-item.active {
+    color: black;
+    background-color: #fff;
+}
+
+.choice-menu-item:hover {
+    cursor: pointer;
+}
+
+.application-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    position: relative;
+
+    width: 80%;
+}
+
+.application-container .create {
+    width: 100%;
+    height: 100%;
+
+    border: 2px solid #3c388d;
+    border-radius: 20px;
+    position: relative;
+
+    box-sizing: border-box;
+}
+
+.application-container .create .create-application {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    position: absolute;
+
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+    width: 30%;
+
+    box-sizing: border-box;
+
+    text-align: center;
+}
+
+.application-container .create .create-application p {
+    font-weight: 500;
+    margin-bottom: 8px;
+}
+
+.create-application-card {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    height: fit-content;
+    width: 80%;
+}
+
+.create-application-card .card-list {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+
+    width: 100%;
+    height: 100%;
+    list-style: none;
+}
+
+.create-application-card .card-list li {
+    width: 100%;
+}
+
+.create-application-card .card-list li select {
+    width: 100%;
+}
+
+.create-application-card .card-list li h3 {
+    margin-bottom: 8px;
+}
+
+
+.org-inputs {
+    display: flex;
+    justify-content: space-between;
+    gap: 8px;
+}
+
+.org-inputs div {
+    width: 100%;
+}
+
+.org-inputs div input {
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.card-list-item .buttons {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+}
+
+.card-list-item .buttons .cancel-application {
+    background-color: #fff;
+    color: #3c388d;
+
+    border: 1px solid #3c388d;
+}
+
+.card-list-item .buttons .cancel-application:hover {
+    background-color: #3c388d;
+    color: white;
+}
+
+
+.application-container .roadmap {
+    width: 90%;
+    height: 40%;
+    
+    border: 2px solid #3c388d;
+    border-radius: 20px;
+
+    overflow: hidden;
+
+    margin-bottom: 32px;
+}
+
+.button-prev, .button-next {
+    position: absolute;
+    top: 12%;
+
+    cursor: pointer;
+
+    color: #3c388d;
+}
+
+.button-prev {
+    left: 28px;
+}
+
+.button-next {
+    right: 28px;
+}
+
+.application-container .roadmap .roadmap-card {
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    gap: 24px;
+
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.roadmap .practice-info {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+
+    width: 100%;
+    height: 100%;
+}
+
+.roadmap .practice-info .buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+
+    color: #3c388d;
+    cursor: pointer;
+
+    margin-left: 24px;
+}
+
+.roadmap .practice-info .basics {
+    display: flex;
+    align-items: center;
+
+    background-color: #3c388d;
+    
+    width: 100%;
+    height: 100%;
+}
+
+.roadmap .practice-info .basics .basics-container {
+    display: flex;
+    flex-wrap: wrap;
+
+    justify-content: center;
+    gap: 32px;
+
+    width: 100%;
+    height: fit-content;
+    
+    color: white;
+
+    word-break: break-word;
+}
+
+.roadmap .practice-info .basics .basics-container div {
+    width: 40%;
+    height: fit-content;
+
+    box-sizing: border-box;
+}
+
+.roadmap .practice-info .basics div .title {
+    margin-bottom: 4px;
+}
+
+.roadmap .practice-progress {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    width: 40%;
+
+    margin-right: 24px;
+}
+
+.roadmap .practice-progress .description {
+    margin-bottom: 4px;
+}
+
+.practice-progress .progress-bar {
+    display: flex;
+    gap: 8px;
+}
+
+.practice-progress .progress-bar .progress-state {
+    width: 100%;
+    height: 48px;
+
+    background-color: #d1d4d3;
+}
+
+.practice-progress .progress-bar .progress-state.completed {
+    background-color: #9fc53a;
+}
+
+/* Teacher */
+
+.teacher-information {
+    width: 100%;
+    height: 640px;
+
+    border: 2px solid #3c388d;
+    border-radius: 20px;
+
+    overflow: hidden;
+}
+
+.supervisor-interface {
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+}
+
+.supervisor-interface .supervisor,
+.supervisor-interface .group-members {
+    min-width: 20%;
+    height: 100%;
+
+    word-break: break-word;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    border-right: 2px solid #3c388d;
+}
+
+.supervisor-interface .supervisor .title,
+.supervisor-interface .group-members .title {
+    padding: 20px 0;
+    width: 100%;
+    text-align: center;
+
+    background-color: #3c388d;
+    color: white;
+}
+
+.supervisor .supervisor-list,
+.group-members .student-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    text-decoration: none;
+    list-style: none;
+
+    width: 100%;
+    height: 100%;
+
+    overflow-y: auto;
+}
+
+.supervisor .supervisor-list::-webkit-scrollbar {
+    width: 4px;
+    border-left: 2px solid #3c388d;
+}
+
+.supervisor .supervisor-list::-webkit-scrollbar-thumb {
+    background: #3c388d;
+    box-sizing: border-box;
+}
+
+.supervisor-list .supervisor-list-item,
+.student-list .student-list-item {
+    width: 100%;
+    text-align: center;
+}
+
+.supervisor-list-item .group-info,
+.student-list-item .app-info {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+
+    padding: 8px 0;
+
+    border-bottom: 2px solid #3c388d;
+    color: #3c388d;
+
+    font-weight: 500;
+
+    cursor: default;
+    position: relative;
+}
+
+.supervisor-list-item .group-info p,
+.student-list-item .app-info p {
+    position: absolute;
+    right: 50%;
+    transform: translate(50%);
+    z-index: 0;
+
+    width: 100%;
+}
+
+.supervisor-list-item .group-info,
+.student-list-item .app-info {
+    border-top: 2px solid #3c388d;
+}
+
+.supervisor-list-item:first-child .group-info,
+.student-list-item:first-child .app-info {
+    border-top: 0;
+}
+
+.supervisor-list-item .group-info.inactive,
+.student-list-item .app-info.inactive {
+    border-bottom: 0;
+}
+
+.supervisor-list-item:last-child .group-info.inactive,
+.student-list-item:last-child .app-info.inactive {
+    border-bottom: 2px solid #3c388d;
+}
+
+.supervisor-list-item .group-info.inactive.checked-marker,
+.student-list-item .app-info.app-info.inactive.checked-marker {
+    background-color: #9fc53a;
+    color: white;
+}
+
+.supervisor-list-item .group-info svg,
+.student-list-item .app-info svg {
+    cursor: pointer;
+    margin-right: 20px;
+
+    position: relative;
+    z-index: 1;
+}
+
+.supervisor-list-item .group-info svg.inactive,
+.student-list-item .app-info svg.inactive {
+    display: none;
+}
+
+.supervisor-list-item .practices .practice-info,
+.student-list-item .students .student-info {
+    padding: 20px 0;
+    position: relative;
+}
+
+.supervisor-list-item .practices .practice-info.inactive,
+.student-list-item .students .student-info.inactive {
+    display: none;
+}
+
+.supervisor-list-item .practices .practice-info:hover,
+.supervisor-list-item .practices .practice-info.active,
+.student-list-item .students .student-info:hover,
+.student-list-item .students .student-info.active {
+    background-color: #9fc53a;
+    color: white;
+    cursor: pointer;
+}
+
+.supervisor-list-item .practices .practice-info::before,
+.student-list-item .students .student-info::before {
+    content: "";
+    height: 2px;
+    width: 60%;
+
+    background-color: #3c388d;
+    opacity: 0.2;
+
+    top: -1px;
+    left: 50%;
+    transform: translate(-50%, 0);
+
+    z-index: 3;
+
+    position: absolute;
+}
+
+.supervisor-list-item .practices .practice-info:first-child::before,
+.student-list-item .students .student-info:first-child::before {
+    content: none;
+}
+
+.application {
+    width: 100%;
+
+    position: relative;
+}
+
+.application .does-not-exist,
+.application .while-choice {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    
+    width: 40%;
+
+    word-break: break-word;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.application .application-card {
+    width: 80%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    gap: 24px;
+}
+
+.application .application-card .application-card-info {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.application-card-info p.warning {
+    font-style: italic;
+    color: #ed1c24;
+
+    font-size: 14px;
+}
+
+.application-card-info p span {
+    font-weight: 500;
+}
+
+.application-card-buttons {
+    display: flex;
+    gap: 8px;
+}
+
+.application-card-buttons button:first-child {
+    background-color: #fff;
+    color: #3c388d;
+
+    border: 1px solid #3c388d;
+
+}
+
+.application-card-buttons button:first-child:hover {
+    background-color: #3c388d;
+    color: white;
+}

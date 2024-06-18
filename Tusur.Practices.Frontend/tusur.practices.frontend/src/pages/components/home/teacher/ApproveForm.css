@@ -1,0 +1,35 @@
+.approve-form {
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+}
+
+.approve-form>.approve-form-title {
+    margin-bottom: 12px;
+}
+
+.approve-form>.approve-form-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    margin-bottom: 20px;
+
+    text-align: center;
+    line-height: 1;
+}
+
+.approve-form>.approve-form-content p.warning {
+    color: red;
+    font-size: 12px;
+    margin-top: 4px;
+}
+
+.approve-form>.approve-form-content>.approve-inputs {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+
+    margin-top: 12px;
+}

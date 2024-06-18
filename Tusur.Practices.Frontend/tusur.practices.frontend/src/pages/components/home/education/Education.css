@@ -1,0 +1,12 @@
+.education-content-container .content-body {
+    position: relative;
+}
+
+.education-content-container .contract-list-container {
+    margin-top: 20px;
+}
+
+.education-content-container .contract-list-container::before {
+    content: '';
+    display: none;
+}

@@ -1,0 +1,90 @@
+.contract-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.contract-container {
+
+    width: 100%;
+
+    border-radius: 2px;
+    box-shadow: 0 4px #c2c1db;
+}
+
+.contract-container>* {
+    padding: 20px 28px;
+}
+
+.contract-container>.contract-header {
+    display: flex;
+    background-color: #ececf4;
+}
+
+.contract-container>.contract-header>.header-text {
+    width: 90%;
+}
+
+.contract-container>.contract-header>.header-text>p:first-child {
+    color: #3c388d;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.contract-container>.contract-header>.header-text>p {
+    font-size: 14px;
+}
+
+.contract-container>.contract-header>.header-buttons {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 12px;
+
+    width: 10%;
+
+    color: #3c388d;
+}
+
+.contract-container>.contract-header>.header-buttons:hover {
+    cursor: pointer;
+}
+
+.contract-container>.contract-students-container {
+    border-left: 1px solid #ececf4;
+    border-right: 1px solid #ececf4;
+
+    box-sizing: border-box;
+}
+
+.contract-container>.contract-students-container>.contract-students {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+
+    list-style: none;
+}
+
+.student-in-contract {
+    padding: 0 12px;
+    border-left: 4px solid #3c388d;
+
+    box-sizing: border-box;
+}
+
+.student-in-contract>.student-info {
+    color: #3c388d;
+}
+
+.student-in-contract>.practice-info {
+    font-size: 14px;
+}
+
+.contract-profile-container {
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+
+}

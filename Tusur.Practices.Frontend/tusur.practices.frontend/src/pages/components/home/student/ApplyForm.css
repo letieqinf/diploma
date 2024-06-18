@@ -1,0 +1,75 @@
+.apply-form-container {
+    width: 480px;
+}
+
+.apply-form-container>.apply-form-part {
+    margin-bottom: 20px;
+}
+
+#practice-select {
+    max-width: 100%;
+    width: 100%;
+}
+
+.apply-form-part .organization-inputs {
+    position: relative;
+}
+
+.apply-form-part .organization-inputs>.organization-selector-container {
+    position: absolute;
+
+    width: 100%;
+    max-height: 120px;
+
+    box-sizing: border-box;
+
+    background-color: #fff;
+    box-shadow: 0 4px #c2c1db;
+    
+    border: 1px solid #c2c1db;
+    border-top: 0;
+    border-bottom: 0;
+
+    overflow-wrap: break-word;
+    overflow-y: auto;
+}
+
+.apply-form-part .organization-inputs>.organization-selector-container p {
+    box-sizing: border-box;
+    line-height: 1;
+    padding: 12px;
+    width: 100%;
+}
+
+.apply-form-part .organization-inputs>.organization-selector-container p:hover {
+    cursor: pointer;
+    background-color: #c2c1db;
+}
+
+.apply-form-container>.buttons-container {
+    display: flex;
+    justify-content: center;
+    gap: 4px;
+
+    width: 100%;
+}
+
+.apply-form-container>.apply-form-part>.title {
+    margin-bottom: 20px;
+}
+
+.apply-form-container>.buttons-container:last-child {
+    margin-bottom: 0;
+}
+
+.organization>.organization-exist-checkbox {
+    margin-bottom: 4px;
+}
+
+.organization>.organization-inputs>.item {
+    margin-top: 4px;
+}
+
+.organization>.organization-inputs>.item:first-child {
+    margin-top: 0;
+}

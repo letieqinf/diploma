@@ -1,0 +1,15 @@
+.resp-container h4 {
+    font-size: 20px;
+    font-weight: 500;
+
+    color: #9fc53a;
+}
+
+.resp-container .resp-general {
+    list-style: none;
+}
+
+.resp-dates {
+    font-size: 14px;
+    margin-top: 20px;
+}

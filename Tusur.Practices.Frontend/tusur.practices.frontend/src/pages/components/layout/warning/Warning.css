@@ -1,0 +1,15 @@
+div.warning {
+    display: flex;  
+    align-items: center;
+    gap: 4px;
+
+    line-height: 1;
+}
+
+div.warning>svg {
+    color: #c12e2a;
+}
+
+div.warning>p {
+    color: #d9534f;
+}
